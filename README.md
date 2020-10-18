@@ -1,2 +1,2 @@
 # 2048
-2048 little game, with C
+If you are interested in my Programm, and wanna make some change, always welcome!
