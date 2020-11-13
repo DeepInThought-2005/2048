@@ -1,6 +1,6 @@
 # 2048
-If you are interested in my Programm, and wanna make some change, always welcome!
+If you are interested in my Programm, always welcome you to make it better!
 
-Also, in !windows! you can put the "source code" in VS 2019 or codeblocks or somewhere to compile them.
+Also, in WINDOWS you can compile the source code with any C Compiler.
 
-Then you can try it out, have a good time!
+Then just try it out, have fun!
